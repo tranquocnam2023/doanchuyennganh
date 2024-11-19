@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0110\u1ED3 \u00E1n Chuy\u00EAn Ng\u00E0nh\\PC_Solution\\OpDT\\OpDT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E04DA6F-879F-486E-87E7-CB1DA260B050}|OpDT\\OpDT.csproj|c:\\\u0111\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh\\pc_solution\\opdt\\opdt\\opdt\\controllers\\opdtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E04DA6F-879F-486E-87E7-CB1DA260B050}|OpDT\\OpDT.csproj|solutionrelative:opdt\\controllers\\opdtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E04DA6F-879F-486E-87E7-CB1DA260B050}|OpDT\\OpDT.csproj|c:\\\u0111\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh\\pc_solution\\opdt\\opdt\\opdt\\models\\phieugiaohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E04DA6F-879F-486E-87E7-CB1DA260B050}|OpDT\\OpDT.csproj|solutionrelative:opdt\\models\\phieugiaohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E04DA6F-879F-486E-87E7-CB1DA260B050}|OpDT\\OpDT.csproj|c:\\\u0111\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh\\pc_solution\\opdt\\opdt\\opdt\\models\\phieudathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E04DA6F-879F-486E-87E7-CB1DA260B050}|OpDT\\OpDT.csproj|solutionrelative:opdt\\models\\phieudathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E04DA6F-879F-486E-87E7-CB1DA260B050}|OpDT\\OpDT.csproj|c:\\\u0111\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh\\pc_solution\\opdt\\opdt\\opdt\\models\\opdtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E04DA6F-879F-486E-87E7-CB1DA260B050}|OpDT\\OpDT.csproj|solutionrelative:opdt\\models\\opdtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E04DA6F-879F-486E-87E7-CB1DA260B050}|OpDT\\OpDT.csproj|c:\\\u0111\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh\\pc_solution\\opdt\\opdt\\opdt\\models\\loaihanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E04DA6F-879F-486E-87E7-CB1DA260B050}|OpDT\\OpDT.csproj|solutionrelative:opdt\\models\\loaihanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E04DA6F-879F-486E-87E7-CB1DA260B050}|OpDT\\OpDT.csproj|c:\\\u0111\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh\\pc_solution\\opdt\\opdt\\opdt\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E04DA6F-879F-486E-87E7-CB1DA260B050}|OpDT\\OpDT.csproj|solutionrelative:opdt\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpDTController.cs",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n Chuy\u00EAn Ng\u00E0nh\\PC_Solution\\OpDT\\OpDT\\OpDT\\Controllers\\OpDTController.cs",
+              "RelativeDocumentMoniker": "OpDT\\Controllers\\OpDTController.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n Chuy\u00EAn Ng\u00E0nh\\PC_Solution\\OpDT\\OpDT\\OpDT\\Controllers\\OpDTController.cs",
+              "RelativeToolTip": "OpDT\\Controllers\\OpDTController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:15:18.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhieuGiaoHang.cs",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n Chuy\u00EAn Ng\u00E0nh\\PC_Solution\\OpDT\\OpDT\\OpDT\\Models\\PhieuGiaoHang.cs",
+              "RelativeDocumentMoniker": "OpDT\\Models\\PhieuGiaoHang.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n Chuy\u00EAn Ng\u00E0nh\\PC_Solution\\OpDT\\OpDT\\OpDT\\Models\\PhieuGiaoHang.cs",
+              "RelativeToolTip": "OpDT\\Models\\PhieuGiaoHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:42:57.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhieuDatHang.cs",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n Chuy\u00EAn Ng\u00E0nh\\PC_Solution\\OpDT\\OpDT\\OpDT\\Models\\PhieuDatHang.cs",
+              "RelativeDocumentMoniker": "OpDT\\Models\\PhieuDatHang.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n Chuy\u00EAn Ng\u00E0nh\\PC_Solution\\OpDT\\OpDT\\OpDT\\Models\\PhieuDatHang.cs",
+              "RelativeToolTip": "OpDT\\Models\\PhieuDatHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:42:56.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoaiHangHoa.cs",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n Chuy\u00EAn Ng\u00E0nh\\PC_Solution\\OpDT\\OpDT\\OpDT\\Models\\LoaiHangHoa.cs",
+              "RelativeDocumentMoniker": "OpDT\\Models\\LoaiHangHoa.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n Chuy\u00EAn Ng\u00E0nh\\PC_Solution\\OpDT\\OpDT\\OpDT\\Models\\LoaiHangHoa.cs",
+              "RelativeToolTip": "OpDT\\Models\\LoaiHangHoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:42:51.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n Chuy\u00EAn Ng\u00E0nh\\PC_Solution\\OpDT\\OpDT\\OpDT\\Models\\HangHoa.cs",
+              "RelativeDocumentMoniker": "OpDT\\Models\\HangHoa.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n Chuy\u00EAn Ng\u00E0nh\\PC_Solution\\OpDT\\OpDT\\OpDT\\Models\\HangHoa.cs",
+              "RelativeToolTip": "OpDT\\Models\\HangHoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:42:49.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OpDTContext.cs",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n Chuy\u00EAn Ng\u00E0nh\\PC_Solution\\OpDT\\OpDT\\OpDT\\Models\\OpDTContext.cs",
+              "RelativeDocumentMoniker": "OpDT\\Models\\OpDTContext.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n Chuy\u00EAn Ng\u00E0nh\\PC_Solution\\OpDT\\OpDT\\OpDT\\Models\\OpDTContext.cs",
+              "RelativeToolTip": "OpDT\\Models\\OpDTContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:42:41.473Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 689,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
